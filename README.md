@@ -16,5 +16,6 @@ The app features a modern UI with formatted dates, amount display, and a smooth 
 - CSS (custom styling)
 ## How to Run
  npm install
+ 
  npm run dev
  
