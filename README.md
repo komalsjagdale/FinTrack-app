@@ -14,8 +14,7 @@ The app features a modern UI with formatted dates, amount display, and a smooth 
 - React.js
 - JavaScript (ES6)
 - CSS (custom styling)
-## How to Run
- npm install
- 
- npm run dev
- 
+### 🚀 How to Run
+ ```bash
+npm install
+npm run dev
